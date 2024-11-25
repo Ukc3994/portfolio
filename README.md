@@ -1,2 +1,2 @@
 # portfolio
-This is my updated portfolionwebsite
+This is my updated portfolio website.
